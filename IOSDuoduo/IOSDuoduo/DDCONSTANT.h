@@ -31,8 +31,8 @@
 #define IM_PDU_HEADER_LEN   16
 #define IM_PDU_VERSION      1
 
-#define SERVER_IP                           @"122.225.68.125"//@"122.225.67.108"
-#define SERVER_PORT                         9008//8008//
+#define SERVER_IP                           @""
+#define SERVER_PORT                         
 
 
 //-------------------本地化--------------------
